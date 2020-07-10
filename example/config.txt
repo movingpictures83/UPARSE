@@ -1,0 +1,2 @@
+Prefix plugins/UPARSE/example/
+Plugin UPARSE inputfile unique.fasta outputfile output.uparse
